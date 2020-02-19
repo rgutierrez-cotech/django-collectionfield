@@ -1,5 +1,5 @@
-PYTHON_VERSION = 2.7
-DJANGO_VERSION = 1.9
+PYTHON_VERSION = 3
+DJANGO_VERSION = 2.2
 
 virtualenv:
 	test -d .env || virtualenv -p python$(PYTHON_VERSION) .env

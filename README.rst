@@ -10,6 +10,10 @@ django-collectionfield
 
 A reusable Django model field to store collections.
 
+* This is a fork of a fork. The original repository does not appear to be active. I needed to use the library for Django 2.
+* Original: https://github.com/escer/django-collectionfield
+* Fork: https://github.com/russoz/django-collectionfield
+
 Features
 --------
 
